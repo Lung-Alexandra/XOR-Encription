@@ -69,4 +69,4 @@ Cheia pe care au folosit-o: parola121alorap
 > Partea 2: Folosiți fișierul output și fișierele sursă de pe pagina github a echipei
 adverse pentru a afla cheia (NU aveți voie să folosiți input.txt, chiar dacă echipa adversă a greșit cu ceva aflați cheia folosită (aveți acces la codul lor sursă) )
 
-Pentru a rezolva această cerință, ne-am folosit de scriptul cerinta2partea1.py.
+Pentru a rezolva această cerință, ne-am folosit de scriptul cerinta2partea2.py.
