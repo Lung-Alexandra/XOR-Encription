@@ -3,7 +3,7 @@
 
 Acest proiect contine o implementare simpla a metodei xor de encriptare
 
-> Link către repository-ul inițial : 
+> Link către repository-ul inițial : https://github.com/AlexaLung/fmi-proiecte/tree/main/proiect%20asc
 
 > Echipa noastră: XorT11am
 
