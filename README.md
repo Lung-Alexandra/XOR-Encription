@@ -1,6 +1,9 @@
 # XOR-Encritption
 
-This python project is a simple implementation of the xor encryption method.
+
+Acest proiect contine o implementare simpla a metodei xor de encriptare
+
+> Link către repository-ul inițial : 
 
 > Echipa noastră: XorT11am
 
