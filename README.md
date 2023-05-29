@@ -1,4 +1,4 @@
-# XOR-Encritption
+# XOR-Encription
 
 
 Acest proiect contine o implementare simpla a metodei xor de encriptare
